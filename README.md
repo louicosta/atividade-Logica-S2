@@ -12,7 +12,9 @@
 
 5 - Receba do usuários 3 números e calcule a média entre eles.
 
-Qual foi meu aprendizado durante esse processo?
+
+
+## Qual foi meu aprendizado durante esse processo?
 
 * Interpretação pra quem quer fazer lógica é essencial.
 
