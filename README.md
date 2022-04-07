@@ -1,4 +1,6 @@
-Este repositório contém a resolução dos exercícios propostos pela professora Simaria para a semana 2 da iniciativa Reprograma.
+# Exercícios de Lógica Reprograma S2
+
+## Repositório com as resoluções dos exercícios propostos pela professora Simara
 
 1 - Solicite o preço de uma mercadoria e o percentual de desconto 20%. Exiba no console o valor do desconto e o preço a pagar.
 
