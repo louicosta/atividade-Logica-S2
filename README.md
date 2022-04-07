@@ -26,3 +26,4 @@ Qual foi meu aprendizado durante esse processo?
 
 * Melhorar algo que foi feito é uma forma de fixar o conteúdo e buscar outras maneiras de como ele pode ser escrito.
 
+![Gif Psyduck](https://github.com/louicosta/atividade-Logica-S2/blob/main/psyduck1.gif)
